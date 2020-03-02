@@ -1,7 +1,7 @@
 # SpreeuwAutoCount
 ImageJ and R macros voor spreeuwen fotos.
 
-Documentation (in Dutch): https://www.sovon.nl/nl/handleiding-spreeuwenfo
+Documentation (in Dutch): https://www.sovon.nl/nl/handleiding-spreeuwenfotos
 
 ## Youtube links
 * ImageJ: https://www.youtube.com/watch?v=tHJKjWOD_kk
